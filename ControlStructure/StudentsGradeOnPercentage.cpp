@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main(){
 //	WAP TO PRINT GRADES OF STUDENT BASED ON THEIR PERCENTAGE.
