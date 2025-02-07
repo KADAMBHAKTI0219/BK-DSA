@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main (){
+	//Look at this series: 36, 34, 30, 28, 24, ... 	
 	int first = 36;
 	int second = 34;
 	
