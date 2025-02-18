@@ -18,7 +18,7 @@ int main(){
 	
 	 for(int i=0;i<sizeofarr;i++){
 	 	sumOfTwoArray[i] = arr1[i] + arr2[i];
-	 	 cout << sumOfTwoArray[i] << "  ";
+	 	 cout <<  sumOfTwoArray[i] << "  ";
 	 }
 	
 	
